@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iBrahim-mohammad1
+- 👋 Hi, I’m @iBrahim-mohammad
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Laravel and vue js  docker etc
+- 🌱 I’m currently learning Laravel and vue js , ASP.net mvc core 6 ,   docker etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter: so2ja1
 - 
