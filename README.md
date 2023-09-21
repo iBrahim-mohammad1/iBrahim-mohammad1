@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iBrahim-mohammad
+- 👋 Hi, I’m IBRAHIM MOHAMMAD 
 - 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning Laravel and vue js , ASP.net mvc core 6 ,   docker etc
 - 💞️ I’m looking to collaborate on ...
