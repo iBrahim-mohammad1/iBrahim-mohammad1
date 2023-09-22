@@ -40,10 +40,6 @@ Here are some of the tools and technologies I'm currently using and learning:
 - **Laravel:** A PHP web application framework.
 - **Docker:** Containerization platform for easy application deployment.
 - **Git and GitHub:** Version control and collaboration platform.
-- **Jenkins:** CI/CD automation tool.
-- **Ansible:** Configuration management and automation.
-- **Monitoring Tools:** (e.g., Prometheus, Grafana, ELK Stack) for application and server monitoring.
-- **Infrastructure as Code (IaC):** (e.g., Terraform, Ansible) for infrastructure automation.
 
 ## Learning Resources
 I'm continuously learning from various resources, including:
