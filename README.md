@@ -28,22 +28,12 @@ I'm currently working on improving my skills in the following areas:
 - PHP programming
 - Database design (MySQL, PostgreSQL)
 - Version control with Git
-- Linux server administration
+- c#
+- ASP.net core 6 mvc
 - Docker containerization
-- CI/CD pipelines with tools like Jenkins or GitLab CI/CD
 
-## Projects
-### [Project 1 Name]
-- Description: Briefly describe the project, its purpose, and your role.
-- Technologies Used: List the technologies and tools used.
-- DevOps Practices Implemented: Mention any DevOps practices applied.
 
-### [Project 2 Name]
-- Description: Briefly describe the project, its purpose, and your role.
-- Technologies Used: List the technologies and tools used.
-- DevOps Practices Implemented: Mention any DevOps practices applied.
 
-(Add more projects as you work on them.)
 
 ## Tools
 Here are some of the tools and technologies I'm currently using and learning:
@@ -66,8 +56,8 @@ Feel free to suggest any valuable resources that could help me on my journey.
 
 ## Get in Touch
 I'm always open to collaboration and learning from others in the field. If you'd like to connect or have any suggestions, you can reach out to me via:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: [apra5057700@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/ibrahim-mohammd-18b139215/]
+- GitHub: [https://github.com/iBrahim-mohammad1/]
 
 Let's grow and learn together as I embark on this exciting DevOps journey!
