@@ -58,7 +58,7 @@ Feel free to suggest any valuable resources that could help me on my journey.
 
 ## Get in Touch
 I'm always open to collaboration and learning from others in the field. If you'd like to connect or have any suggestions, you can reach out to me via:
-- Email: [apra5057700@gmail.com]
+- Email: [ibrahim.moh1mmad1@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/ibrahim-mohammd-18b139215/]
 - GitHub: [https://github.com/iBrahim-mohammad1/]
 
