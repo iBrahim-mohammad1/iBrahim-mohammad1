@@ -1,6 +1,6 @@
-# Laravel Backend Developer's DevOps Journey
+# Laravel Backend Developer's Intersted in data enginnering 
 
-Welcome to my DevOps journey! This README.md is designed to give you an overview of the tools, processes, and resources I'm using to become a more proficient Laravel backend developer with a focus on DevOps practices.
+Welcome to my  journey! This README.md is designed to give you an overview of the tools, processes, and resources I'm using to become a more proficient Laravel backend developer with a focus on data enginnering  practices.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -21,6 +21,8 @@ My primary goal is to bridge the gap between development and operations by maste
 - Monitor and maintain application performance
 - Improve security practices
 - Collaborate effectively with cross-functional teams
+- data enginnering
+- build data pipline
 
 ## Skills
 I'm currently working on improving my skills in the following areas:
@@ -31,6 +33,10 @@ I'm currently working on improving my skills in the following areas:
 - c#
 - ASP.net core 6 mvc
 - Docker containerization
+- mysql
+- data enginnering
+- python
+- web scriping
 
 
 
